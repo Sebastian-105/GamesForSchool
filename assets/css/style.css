@@ -1,0 +1,30 @@
+.gamelist {
+    text-align: center;
+    border:solid rgb(52, 194, 52);
+    border-width: 80%;
+    border-radius: 16px;
+    background-color: #27262b;
+    font-size: 25px;
+    padding:10px;
+    margin-top:10px;
+}
+* {
+    margin: 0px;
+    background-color: black;
+    color: #fff;
+}
+h1 {
+ padding-top:25px;
+ text-align: center;
+}
+hr {
+    height: 3px;
+    border-radius: 16px;
+    width: 100%;
+    background-color:white;
+    margin-top:15px;
+    margin-bottom:15px;
+}
+.hidden {
+    display: none;
+}

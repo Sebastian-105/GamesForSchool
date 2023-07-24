@@ -85,30 +85,6 @@
 		"img": "images/logo.png"
 	},
 	{
-		"name": "run 3 (adobe flash required)",
-		"root": "https://raw.githack.com/Sebastian-105/Sebastian-105-assets/main/legacyflashgames",
-		"file": "run3flash/run3.swf",
-		"img": "meta/apple-touch-icon.png"
-	},
-	{
-		"name": "mctd2 (adobe flash required)",
-		"root": "https://raw.githack.com/Sebastian-105/Sebastian-105-assets/main/legacyflashgames",
-		"file": "minecraft-tower-defence-2/minecraft-tower-defence-2.swf",
-		"img": "meta/apple-touch-icon.png"
-	},
-	{
-		"name": "flash golf 2001 (adobe flash required)",
-		"root": "https://raw.githack.com/Sebastian-105/Sebastian-105-assets/main/legacyflashgames",
-		"file": "flashgolf_2001.swf",
-		"img": "meta/apple-touch-icon.png"
-	},
-	{
-		"name": "binding of issac (adobe flash required)",
-		"root": "https://raw.githack.com/Sebastian-105/Sebastian-105-assets/main/legacyflashgames",
-		"file": "bindingofissac/tboi.swf",
-		"img": "meta/apple-touch-icon.png"
-	},
-	{
 		"name": "monkeymart",
 		"root": "https://raw.githack.com/Sebastian-105/Sebastian-105-assets/main/mart",
 		"file": "Monkey Marr.html",
